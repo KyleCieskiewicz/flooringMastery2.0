@@ -1,0 +1,4 @@
+Order Number, Customer Name, State, Tax Rate, Product Type, Area, Cost Per Square Foot, Labor Cost Per Square Foot, Material Cost, Labor Cost, Tax, Total.
+1, Southern Motion, OH, 6.25, Tile, 876987, 4.15, 3.50, 3639496.05, 3069454.50, 402537.0330, 7111487.5830
+2, Action plant 2, OH, 6.25, Tile, 565665, 4.15, 3.50, 2347509.75, 1979827.50, 259640.2350, 4586977.4850
+3, Bob, IN, 6.00, Carpet, 100, 2.10, 2.25, 210.00, 225.00, 26.1000, 461.1000, 

@@ -1,0 +1,2 @@
+Order Number, Customer Name, State, Tax Rate, Product Type, Area, Cost Per Square Foot, Labor Cost Per Square Foot, Material Cost, Labor Cost, Tax, Total.
+1, Bob's, IN, 6.00, Wood, 23444, 4.75, 5.15, 111359.00, 120736.60, 13925.7360, 246021.3360

@@ -1,0 +1,4 @@
+OrderNumber, Customer Name, State, Tax Rate, Product Type, Area, Cost Per Square Foot, Labor Cost Per Square Foot, Material Cost, Labor Cost, Tax, Total.
+1, Bob, MS, 7.50, Dirt, 100, 2.25, 4.25, 225.00, 425.00, 52.0000, 702.0000, 
+2, Timmy, MS, 7.50, Dirt, 23232, 2.25, 4.25, 52272.00, 98736.00, 12080.6400, 163088.6400, 
+3, test, IN, 6.00, Wood, 56354, 4.75, 5.15, 267681.50, 290223.10, 33474.2760, 591378.8760, 
